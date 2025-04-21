@@ -15,8 +15,6 @@ public class GMoveZeros {
                 a2 = a2 + ch;
             }
         }
-
         System.out.println(a2+a1);
-
     }
 }

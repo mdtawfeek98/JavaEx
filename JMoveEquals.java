@@ -1,4 +1,4 @@
-public class HMoveEquals {
+public class JMoveEquals {
 
     public static void main(String[] args) {
 
